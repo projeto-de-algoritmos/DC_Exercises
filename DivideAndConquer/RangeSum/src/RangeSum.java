@@ -45,7 +45,7 @@ public class RangeSum {
 				sorted[k++] = prefix[i++];
 			else
 				sorted[k++] = prefix[j++];
-	
+
 		while (i <= m)
 			sorted[k++] = prefix[i++];
 
@@ -53,6 +53,23 @@ public class RangeSum {
 			sorted[k++] = prefix[j++];
 
 		System.arraycopy(sorted, 0, prefix, l, sorted.length);
+	}
+
+	public static void main(String[] args) {
+		RangeSum solution = new RangeSum();
+
+		int[] nums = { -2, 5, -1 };
+		int lower = -2;
+		int upper = 2;
+		int count = solution.countRangeSum(nums, lower, upper);
+		System.out.println("Count of Range Sums: " + count);
+
+		RangeSum solution2 = new RangeSum();
+		int[] nums2 = { 0 };
+		lower = 0;
+		upper = 0;
+		int count2 = solution2.countRangeSum(nums2, lower, upper);
+		System.out.println("Count of Range Sums: " + count2);
 	}
 
 }
