@@ -16,10 +16,9 @@ O objetivo do projeto é demonstrar o funcionamento de diferentes algoritmos foc
 
 ![karatsuba](https://github.com/projeto-de-algoritmos/DC_Exercises/assets/69825746/bb357cea-eab9-4932-a8e2-3dcbc479a70d)
 ![strassen](https://github.com/projeto-de-algoritmos/DC_Exercises/assets/69825746/779441e3-dd79-4bc5-8d47-9a20ff99f303)
-
-![closestpoints](here!)
-![countsmaller](here!)
-![rangesum](here!)
+![closestpoints](https://raw.githubusercontent.com/projeto-de-algoritmos/DC_Exercises/main/DivideAndConquer/img/closestpoints.png)
+![countsmaller](https://raw.githubusercontent.com/projeto-de-algoritmos/DC_Exercises/main/DivideAndConquer/img/countsmaller.png)
+![rangesum](https://raw.githubusercontent.com/projeto-de-algoritmos/DC_Exercises/main/DivideAndConquer/img/rangesum.png)
 
 ## Instalação 
 **Linguagem**: Java/C<br>
