@@ -24,11 +24,9 @@ O objetivo do projeto é demonstrar o funcionamento de diferentes algoritmos foc
 **Linguagem**: Java/C<br>
 **Framework**: Visual Studio Code<br>
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## Apresentação
+[video](./video.mp4)
+.
 
 
 
